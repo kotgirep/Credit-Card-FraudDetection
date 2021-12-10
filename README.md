@@ -6,5 +6,5 @@
 
 
 #### Project Video Link : https://www.youtube.com/watch?v=VBUFtQ2Vg7Y
-#### Project Documentation : 
+#### Project Documentation : https://docs.google.com/document/d/1ffG7A2aiiAKreCu2rPWrG4PQBR0q0fmkGuqbms_kPpQ/edit?usp=sharing
 #### Project Presentation :
