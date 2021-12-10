@@ -1,7 +1,7 @@
 # Credit-Card-FraudDetection
 
-# CMPE 255 Data Mining
-# Team: Techie Tribe
+## CMPE 255 Data Mining
+## Team: Techie Tribe
 ### ✨ Bhavya Tetali () , ✨Supriya Meduri(015262767), ✨Pranjali Kotgire(), ✨Sania Gonsalves()
 
 
