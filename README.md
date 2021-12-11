@@ -2,7 +2,7 @@
 
 ## CMPE 255 Data Mining
 ## Team: Techie Tribe
-### ✨ Bhavya Tetali () 
+### ✨ Bhavya Tetali (014535144) 
 ### ✨Supriya Meduri(015262767) 
 ### ✨Pranjali Kotgire(014640379) 
 ### ✨Sania Gonsalves(015313974)
